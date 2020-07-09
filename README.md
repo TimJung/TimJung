@@ -1,4 +1,4 @@
-### Greetings Earthling 🌍, alien 👽, or inter-dimensional entity 🌌. You have arrived at my github.
+# Greetings Earthling 🌍, alien 👽, or inter-dimensional entity 🌌. You have arrived at my github.
 
 ## About me
 
