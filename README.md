@@ -19,10 +19,13 @@ Every moment in your life has brought you here to this very time & place.
 - 🔔 Push notifications
 - 🐛 An unholy number of bugs, architecture, misc. contributions, & top secret features
 
+## Weird questionable things I do in my free
+- 🌠 My ACM publication for working with FREAKING LASERS: https://dl.acm.org/doi/10.5555/3007225.3007244
+- 👏 This abomination: https://play.google.com/store/apps/details?id=com.viapackets.clapemojitextmaker&hl=en_US
+
 ## Best way to contact me
 - 🐦 Twitter DM: twitter.com/timjungdev
 - 📫 Email: tim@timjung.com
 
-## Weird questionable things I do in my free
-- 🌠 My ACM publication for working with FREAKING LASERS: https://dl.acm.org/doi/10.5555/3007225.3007244
-- 👏 This abomination: https://play.google.com/store/apps/details?id=com.viapackets.clapemojitextmaker&hl=en_US
+
+You're still reading? Truly, I'm flattered. And a little creeped out. But this is the end. There isn't any more here. 
