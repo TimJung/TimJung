@@ -28,4 +28,4 @@ Every moment in your life has brought you here to this very time & place.
 - 📫 Email: tim@timjung.com
 
 
-You're still reading? Truly, I'm flattered. And a little creeped out. But this is the end. There isn't any more here. 
+You're still reading this thing? Truly, I'm flattered. And a little creeped out. But this is the end. There isn't any more here. 
