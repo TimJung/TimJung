@@ -4,7 +4,7 @@
 
 🛸 I'm the being primarily known as Tim. Software engineer and coffee receptacle working @ Activision Blizzard. Currently I focus on JavaScript & React Native. I'm most well known for my work on the Call of Duty Companion App. The second thing I'm most well known for is my work on theoretical questions such as "what's the second thing I'm most well known for?"
 
-🏭 Born in the depths of rust-encrusted Detroit. Exposed to the Starcraft & Age of Empires map editors at an impressionably young age. Molded by a teenage addiction to World of Warcraft & The Orange Box. Taught Java by a guru from the literal island of Java. Crash landed on the shores of California. 
+🏭 Here's an abbreviated recap of my existence: Born in the depths of rust-encrusted Detroit. Exposed to the Starcraft & Age of Empires map editors at an impressionably young age. Molded by a teenage addiction to World of Warcraft & The Orange Box. Taught Java by a guru from the literal island of Java. Crash landed on the shores of California. Wrote a personal github readme - this one - you're reading it now. 
 
 📡 You should talk to me about VR, electronic music, functional fashion, cute cats, sci-fi, robots & A.I., ethics, anything Valve, & hardware. 
 
