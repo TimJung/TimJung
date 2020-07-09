@@ -13,7 +13,7 @@
 - ⚔️ Weekly Tournament & Squads
 - 📺 Call of Duty League streams & viewership incentives
 - 🌐 Leaderboards
-- 🏆 Feed & achievements
+- 🏆 Social feed & achievements
 - 🔔 Push notifications
 - 🐛 An unholy number of bugs, architecture, misc. contributions, & top secret features
 
