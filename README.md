@@ -6,7 +6,7 @@
 
 🏭 Here's an abbreviated recap of my existence: Born in the depths of rust-encrusted Detroit. Exposed to the Starcraft & Age of Empires map editors at an impressionably young age. Molded by a teenage addiction to World of Warcraft & The Orange Box. Taught Java by a guru from the literal island of Java. Crash landed on the shores of California. Wrote a personal github readme - this one - you're reading it now. 
 
-📡 You should talk to me about VR, electronic music, functional fashion, cute cats, sci-fi, robots & A.I., ethics, anything Valve, & hardware. 
+📡 You should talk to me about: VR, electronic music, functional fashion, cute cats, what kind of food to bring me to rapidly gain my favor, sci-fi, robots & A.I., ethics, anything Valve, & hardware. 
 
 ## Some cool things I shipped on the Call of Duty Companion App
 - 🔫 Call of Duty in-app Loadout Editor
