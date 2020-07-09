@@ -4,7 +4,7 @@ You have arrived at my github. Every moment in your life has brought you here to
 
 ## About me
 
-🛸 I'm the being primarily known as Tim. Software engineer and coffee receptacle working @ Activision Blizzard. Currently, I focus on JavaScript & React Native. I'm most well known for my work on the Call of Duty Companion App. The second thing I'm most well known for is my work on theoretical questions such as "what's the second thing I'm most well known for?"
+🛸 The being primarily known as Tim: Software engineer and coffee receptacle working @ Activision Blizzard. Currently, I focus on JavaScript & React Native. I'm most well known for my work on the Call of Duty Companion App. The second thing I'm most well known for is my work on theoretical questions such as "what's the second thing I'm most well known for?"
 
 🏭 Abbreviated recap of my existence: Born in the depths of rust-encrusted Detroit. Corrupted by the Starcraft & Age of Empires map editors at a young age. Molded by a teenage addiction to World of Warcraft & The Orange Box. Learned Java from a guru from the literal island of Java. Degree in Computer Science. Crash landed in  California. Wrote a personal github readme - this one - you're reading it now. 
 
