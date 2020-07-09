@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings Earthling 🌍, alien 👽, or inter-dimensional entity 🌌. You have arrived at my github.
+
+I'm Tim. Software engineer and doer of things working @ Activision Blizzard. 
+
 
 <!--
 **TimJung/TimJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
