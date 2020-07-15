@@ -8,7 +8,7 @@ You have arrived at my github. Every moment in your life has brought you here to
 
 🏭 Abbreviated life recap: Born in the depths of rust-encrusted Detroit. Corrupted by the Starcraft & Age of Empires map editors at a young age. Molded by a teenage addiction to World of Warcraft & The Orange Box. Learned Java from a guru from the literal island of Java. Degree in Computer Science. Crash landed in  California. Wrote a personal github readme - this one - you're reading it now. 
 
-📡 Talk with me about: VR, electronic music, functional fashion, cute cats, what kind of food to bring me to rapidly gain my favor, sci-fi, robots & A.I., ethics, anything Valve, & hardware. 
+📡 Talk with me about: VR, electronic music, functional fashion, what kind of food to bring me to rapidly gain my favor, cute cats, sci-fi, robots, artificial intelligence, ethics, the ethics surrounding using food to manipulate me, anything Valve, & hardware. 
 
 ## Some cool things I shipped on the Call of Duty Companion App
 - 🔫 Call of Duty in-app Loadout Editor
