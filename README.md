@@ -1,6 +1,6 @@
 # Welcome Earthling 🌍, alien 👽, or inter-dimensional entity 🌌
 
-You have arrived at my github. Every moment in your life has brought you here to this very time & place. Truly, tragic. You had so much potential.
+You have arrived at my github. Every moment in your life has brought you here to this time & place. Truly, tragic. You had so much potential.
 
 ## About me
 
