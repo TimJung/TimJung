@@ -17,7 +17,7 @@ You have arrived at my github. Every moment in your life has brought you here to
 - 🌐 Leaderboards
 - 🏆 Social feed & achievements
 - 🔔 Push notifications
-- 🐛 An unholy number of bugs
+- 🐛 An unholy number of bug fixes
 - 🧰 Concocted architecture
 - 🕵️ Top secret features
 
