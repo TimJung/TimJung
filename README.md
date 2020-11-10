@@ -4,9 +4,9 @@ You have arrived at my github. Every moment in your life has brought you here to
 
 ## About me
 
-🛸 The being primarily known as Tim: Software engineer & coffee receptacle working @ Activision Blizzard. Currently, I focus on JavaScript & React Native. I'm most well known for my work on the Call of Duty Companion App. The second thing I'm most well known for is my work on theoretical questions such as "what's the second thing I'm most well known for?"
+🛸 The being known as Tim: Software engineer & coffee receptacle working @ Activision Blizzard. Currently, I focus on JavaScript & React Native. I'm most well known for my work on the Call of Duty Companion App. The second thing I'm most well known for is my work on theoretical questions such as "what's the second thing I'm most well known for?"
 
-🏭 Abbreviated life recap: Detroit-born. Got into Starcraft & Age of Empires map editors as a kid. Teenaged addiction to World of Warcraft & The Orange Box. Learned Java from a man from Java. Degree in Computer Science. Crash landed in  California. Wrote a personal github readme - this one - you're reading it now. 
+🏭 Abbreviated life recap: Detroit-born. Got into the Starcraft & Age of Empires map editors as a kid. Teenage addiction to World of Warcraft & The Orange Box. Learned Java from a man from Java. Degree in Computer Science. Crash landed in  California. Wrote a personal github readme - this one - you're reading it now. 
 
 📡 Talk with me about: VR, electronic music, functional fashion, what kind of food to bring me to gain my love, cute cats, sci-fi, robots, artificial intelligence, ethics, the ethics of using food to manipulate me, anything Valve, & hardware. 
 
