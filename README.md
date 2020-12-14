@@ -22,12 +22,14 @@ You have arrived at my github. Every moment in your life has brought you here to
 - 🧰 Concocted architecture
 - 🕵️ Top secret features
 
-## Weird questionable things I do in my free time
+## Weird things I do in my free time
+- ⚛️ React Native Radio podcast host
+- 🌙 Host of Community Hack Night @ Riot Games
 - 📜 Blog: https://dev.to/timjung
+- 📈 App Growth Summit LA 2020 Opening Speaker: https://appgrowthsummit.com/events/app-growth-summit-la-2020/
 - ⚡ ACM publication for working with FREAKING LASERS: https://dl.acm.org/doi/10.5555/3007225.3007244
 - 👏 This abomination: https://play.google.com/store/apps/details?id=com.viapackets.clapemojitextmaker&hl=en_US
-- 🌙 Host of Community Hack Night @ Riot Games
-- ⚛️ Former React Native Radio podcast host
+- 🔨 Codesmith Speaker: https://www.youtube.com/watch?v=5sfbRhBM_j4 & https://www.youtube.com/watch?v=lKYbklAu96o
 
 ## Best way to contact me
 - 🐦 Twitter DM: twitter.com/timjungdev
