@@ -4,7 +4,7 @@ You have arrived at my github. Every moment in your life has brought you here to
 
 ## About me
 
-🛸 The being known as Tim: Software engineer & coffee receptacle working @ Activision Blizzard. Currently, I focus on JavaScript & React Native. I'm most well known for my work on the Call of Duty Companion App. The second thing I'm most well known for is my work on theoretical questions such as "what's the second thing I'm most well known for?"
+🛸 The being known as Tim: Senior Software Engineer & coffee receptacle working @ Activision Blizzard. Currently, I focus on JavaScript & React Native. I'm most well known for my work on the Call of Duty Companion App. The second thing I'm most well known for is my work on theoretical questions such as "what's the second thing I'm most well known for?"
 
 🏭 Abbreviated life recap: Detroit-born. Got into the Starcraft & Age of Empires map editors as a kid. Teenage addiction to World of Warcraft & The Orange Box. Learned Java from a man from Java. Degree in Computer Science. Crash landed in  California. Wrote a personal github readme - this one - you're reading it now. 
 
@@ -35,4 +35,4 @@ You have arrived at my github. Every moment in your life has brought you here to
 - 🐦 Twitter DM: twitter.com/timjungdev
 - 📫 Email: tim@timjung.com
 
-You're still reading this thing? That's flattering. And a little creeped out. You weirdo.
+You're still reading this thing? That's flattering. And a little creepy. You weirdo.
