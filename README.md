@@ -10,6 +10,11 @@ You have arrived at my github. Every moment in your life has brought you here to
 
 📡 Talk with me about: VR, FPS games, electronic music, functional fashion, what kind of food to bring me to gain my love, cute cats, sci-fi, robots, artificial intelligence, ethics, the ethics of using food to manipulate me, anything Valve, & hardware. 
 
+## What I'm working on at Riot Games on Wild Rift
+- 🤼 Matchmaking
+- 🎯 Skill-based systems
+- 💎 Ranked ladder systems
+
 ## Some cool things I built/shipped for the Call of Duty Companion App
 - 🔫 Call of Duty Gunsmith / Loadout Editor
 - ⚔️ Weekly Tournament & Squads
