@@ -4,16 +4,16 @@ You have arrived at my github. Every moment in your life has brought you here to
 
 ## About me
 
-🛸 The being known as Tim: Senior Software Engineer & coffee receptacle working @ Riot Games on League of Legends: Wild Rift. Formerly @ Activision Blizzard on the Call of Duty Companion App. Currently, I focus on C, Unity, C#, and cool problems like matchmaking. I used to focus on JavaScript & React Native.
+🛸 The being known as Tim: Staff Software Engineer & coffee receptacle working @ Riot Games on R&D. Previously: League of Legends: Wild Rift. Formerly @ Activision Blizzard on the Call of Duty Companion App. Currently, I focus on C, Unity, C#, and cool problems like matchmaking. I used to focus on JavaScript & React Native.
 
 🏭 Life recap: Detroit-born. Discovered the StarCraft & Age of Empires map editors as a kid. Addicted to making games for my friends. Teenage addiction to World of Warcraft & The Orange Box. Learned Java from a great mentor from the island of Java. Degree in Computer Science. Worked at Activision Blizzard (a huge dream!). Joined the dark side at Riot Games (another huge dream!). Wrote a personal github readme - this one - you're reading it now. 
 
 📡 Talk with me about: VR, FPS games, electronic music, functional fashion, what kind of food to bring me to gain my love, cute cats, sci-fi, robots, artificial intelligence, ethics, the ethics of using food to manipulate me, anything Valve, & hardware. 
 
-## What I'm working on at Riot Games 👊 on Wild Rift ⚡
+## What I'm working on at Riot Games 👊 
 - 🤼 Matchmaking
-- 🎯 Skill-based systems
-- 💎 Ranked ladder systems
+- 🎯 Skill
+- 💎 Ranked 
 
 ## Cool things I built/shipped for the Call of Duty Companion App
 - 🔫 Call of Duty Gunsmith / Loadout Editor
@@ -39,5 +39,3 @@ You have arrived at my github. Every moment in your life has brought you here to
 ## Best way to contact me
 - 🐦 Twitter DM: twitter.com/timjungdev
 - 📫 Email: tim@timjung.com
-
-You're still reading this thing? That's flattering. And a little creepy. You weirdo.
