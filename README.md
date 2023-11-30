@@ -19,6 +19,3 @@
 - 🌐 Leaderboards
 - 🏆 Social feed & achievements
 - 📅 Call of Duty League schedule
-
-## Best way to contact me
-- 📫 Email: tim@timjung.com
