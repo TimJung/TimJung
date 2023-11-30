@@ -6,7 +6,7 @@
 
 📡 Talk: VR, FPS games, electronic music, functional fashion, sci-fi, robots, Valve, game design, system architecture, hardware. 
 
-## What I'm working on at Riot Games 👊 
+## Work @ Riot Games 👊 
 - 🤼 Matchmaking
 - 🎯 Skill
 - 💎 Ranked 
