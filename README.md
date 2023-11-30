@@ -1,4 +1,4 @@
-# Welcome earthling 🌍, alien 👽, or inter-dimensional entity 🧙
+# Hello earthling 🌍, alien 👽, or inter-dimensional entity 🧙
 
 🛸 Info: Staff Software Engineer & coffee receptacle @ Riot Games on R&D building Matchmaking/Skill/Ranked systems. Past: [redacted], League of Legends: Wild Rift, Call of Duty.
 
