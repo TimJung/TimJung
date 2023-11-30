@@ -1,21 +1,21 @@
-# Welcome Earthling 🌍, alien 👽, or inter-dimensional entity 🧙
+# Welcome earthling 🌍, alien 👽, or inter-dimensional entity 🧙
 
-You have arrived at my github. Every moment in your life has brought you here to this time & place. Truly tragic. You had so much potential.
+You have arrived at my github. Every moment in your life has brought you here to this time & place (technically. not that it's significant).
 
 ## About me
 
-🛸 The being known as Tim: Staff Software Engineer & coffee receptacle working @ Riot Games on R&D. Previously: League of Legends: Wild Rift. Formerly @ Activision Blizzard on the Call of Duty Companion App. Currently, I focus on C, Unity, C#, and cool problems like matchmaking. I used to focus on JavaScript & React Native.
+🛸 Tim: Staff Software Engineer & coffee receptacle @ Riot Games on R&D building Matchmaking/Skill/Ranked systems. Past: [redacted], League of Legends: Wild Rift, Call of Duty.
 
-🏭 Life recap: Detroit-born. Discovered the StarCraft & Age of Empires map editors as a kid. Addicted to making games for my friends. Teenage addiction to World of Warcraft & The Orange Box. Learned Java from a great mentor from the island of Java. Degree in Computer Science. Worked at Activision Blizzard (a huge dream!). Joined the dark side at Riot Games (another huge dream!). Wrote a personal github readme - this one - you're reading it now. 
+🏭 Origins: Detroit. StarCraft & Age of Empires map editors. Hand drawn games for friends. World of Warcraft & The Orange Box. Learned Java via mentor from the island of Java. Computer Science degree. Startups. Activision Blizzard. Riot Games. Wrote a github readme (you're reading it now). 
 
-📡 Talk with me about: VR, FPS games, electronic music, functional fashion, what kind of food to bring me to gain my love, cute cats, sci-fi, robots, artificial intelligence, ethics, the ethics of using food to manipulate me, anything Valve, & hardware. 
+📡 Talk to me: VR, FPS games, electronic music, functional fashion, sci-fi, robots, Valve, game design, system architecture, hardware. 
 
 ## What I'm working on at Riot Games 👊 
 - 🤼 Matchmaking
 - 🎯 Skill
 - 💎 Ranked 
 
-## Cool things I built/shipped for the Call of Duty Companion App
+## Cool things I shipped for Call of Duty franchise
 - 🔫 Call of Duty Gunsmith / Loadout Editor
 - ⚔️ Weekly Tournament & Squads
 - 📺 Call of Duty League streams & viewership incentives
@@ -23,19 +23,6 @@ You have arrived at my github. Every moment in your life has brought you here to
 - 🌐 Leaderboards
 - 🏆 Social feed & achievements
 - 📅 Call of Duty League schedule
-- 🔔 Push notifications
-- 🐛 An unholy number of bug fixes
-- 🧰 Concocted architecture
-
-## Weird things I do in my free time
-- ⚛️ React Native Radio podcast host
-- 🌙 Host of Community Hack Night @ Riot Games
-- 📜 Blog: https://dev.to/timjung
-- 📈 App Growth Summit LA 2020 Opening Speaker: https://appgrowthsummit.com/events/app-growth-summit-la-2020/
-- ⚡ ACM publication for working with FREAKING LASERS: https://dl.acm.org/doi/10.5555/3007225.3007244
-- 👏 This abomination: https://play.google.com/store/apps/details?id=com.viapackets.clapemojitextmaker&hl=en_US
-- 🔨 Codesmith Speaker: https://www.youtube.com/watch?v=5sfbRhBM_j4 & https://www.youtube.com/watch?v=lKYbklAu96o
 
 ## Best way to contact me
-- 🐦 Twitter DM: twitter.com/timjungdev
 - 📫 Email: tim@timjung.com
