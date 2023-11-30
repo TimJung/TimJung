@@ -1,9 +1,5 @@
 # Welcome earthling 🌍, alien 👽, or inter-dimensional entity 🧙
 
-You have arrived at my github. Every moment in your life has brought you here to this time & place (technically. not that it's significant).
-
-## About me
-
 🛸 Info: Staff Software Engineer & coffee receptacle @ Riot Games on R&D building Matchmaking/Skill/Ranked systems. Past: [redacted], League of Legends: Wild Rift, Call of Duty.
 
 🏭 Log: Detroit. StarCraft & Age of Empires map editors. Hand drawn games for friends. World of Warcraft & The Orange Box. Learned Java via mentor from the island of Java. Computer Science degree. Startups. Activision Blizzard. Riot Games. Wrote a github readme (you're reading it now). 
@@ -15,7 +11,7 @@ You have arrived at my github. Every moment in your life has brought you here to
 - 🎯 Skill
 - 💎 Ranked 
 
-## Cool things I shipped for Call of Duty franchise
+## Shipped for Call of Duty franchise
 - 🔫 Call of Duty Gunsmith / Loadout Editor
 - ⚔️ Weekly Tournament & Squads
 - 📺 Call of Duty League streams & viewership incentives
