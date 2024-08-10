@@ -1,21 +1,7 @@
 # Hello earthling 🌍, alien 👽, or inter-dimensional entity 🧙
 
-🛸 Info: Staff Software Engineer & coffee receptacle @ Riot Games on R&D building Matchmaking/Skill/Ranked systems. Past: [redacted], League of Legends: Wild Rift, Call of Duty.
+🛸 Info: Staff Software Engineer @ Riot Games on 2XKO and R&D building 🤼 Matchmaking 🎯 Skill 💎 Ranked services. Past: [redacted], League of Legends: Wild Rift, Call of Duty
 
-🏭 Log: Detroit. StarCraft & Age of Empires map editors. Hand drawn games for friends. World of Warcraft & The Orange Box. Learned Java via mentor from the island of Java. Computer Science degree. Startups. Activision Blizzard. Riot Games. Wrote a github readme (you're reading it now). 
+🏭 Chronology: Detroit. Hand drawn games for friends. StarCraft & Age of Empires map editors. World of Warcraft & The Orange Box. Learned Java via mentor from the island of Java. Computer Science degree. Startups. Activision Blizzard. Riot Games. Wrote a github readme (you're reading it now)
 
-📡 Talk: VR, FPS games, electronic music, functional fashion, sci-fi, robots, Valve, game design, system architecture, hardware. 
-
-## Work @ Riot Games 👊 
-- 🤼 Matchmaking
-- 🎯 Skill
-- 💎 Ranked 
-
-## Shipped for Call of Duty franchise
-- 🔫 Call of Duty Gunsmith / Loadout Editor
-- ⚔️ Weekly Tournament & Squads
-- 📺 Call of Duty League streams & viewership incentives
-- 🎁 Store & gifting
-- 🌐 Leaderboards
-- 🏆 Social feed & achievements
-- 📅 Call of Duty League schedule
+📡 Chat: PC games, electronic music, functional fashion, sci-fi, fantasy, robots, Valve, game design, system architecture, hardware
